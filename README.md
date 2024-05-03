@@ -10,9 +10,7 @@
 
 <h4 align="center"><samp>Comencé mi trayectoria profesional como contador público, explorando números y balances con precisión. Sin embargo, el mundo del desarrollo web despertó mi curiosidad y creatividad de una manera que no esperaba. Me sumergí en el mundo del código, descubriendo un universo de posibilidades para crear y solucionar necesidades en nuestra sociedad. Hoy, fusiono mi experiencia en contabilidad con mi pasión por la programación, buscando constantemente nuevas formas de innovar y mejorar nuestro entorno digital. ¡La oportunidad de crear y transformar nunca deja de emocionarme!</samp></h4><br>
 </div>
-<div style="text-align:center;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZlcGw1Ymh2MHppd2l1dmp6YXVqcHh4azVxazlnazI2dWczcXo5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohT97gdpR40vK/giphy.gif" style="display:block; margin:auto;" width="250" height="150">
-</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZlcGw1Ymh2MHppd2l1dmp6YXVqcHh4azVxazlnazI2dWczcXo5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohT97gdpR40vK/giphy.gif" style="display:block; margin:auto;" width="250" height="150">
 
 
 ## Technologies I've worked with | Tecnologias que he utilizado👨‍💻
