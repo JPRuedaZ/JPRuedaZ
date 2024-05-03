@@ -6,9 +6,9 @@
 
 ## About me | Un poco sobre mi 😴
 <div align="center" >
-<h4><samp>I began my professional journey as a public accountant, delving into numbers and balances with precision. However, the world of web development sparked my curiosity and creativity in unexpected ways. I immersed myself in the realm of code, uncovering a universe of possibilities to create and address societal needs. Today, I merge my accounting experience with my passion for programming, continuously seeking new ways to innovate and enhance our digital landscape. The opportunity to create and transform never fails to excite me!</samp></h4>
+<h3><samp>I began my professional journey as a public accountant, delving into numbers and balances with precision. However, the world of web development sparked my curiosity and creativity in unexpected ways. I immersed myself in the realm of code, uncovering a universe of possibilities to create and address societal needs. Today, I merge my accounting experience with my passion for programming, continuously seeking new ways to innovate and enhance our digital landscape. The opportunity to create and transform never fails to excite me!</samp></h4>
 
-<h4><samp>Comencé mi trayectoria profesional como contador público, explorando números y balances con precisión. Sin embargo, el mundo del desarrollo web despertó mi curiosidad y creatividad de una manera que no esperaba. Me sumergí en el mundo del código, descubriendo un universo de posibilidades para crear y solucionar necesidades en nuestra sociedad. Hoy, fusiono mi experiencia en contabilidad con mi pasión por la programación, buscando constantemente nuevas formas de innovar y mejorar nuestro entorno digital. ¡La oportunidad de crear y transformar nunca deja de emocionarme!</samp></h4><br>
+<h3><samp>Comencé mi trayectoria profesional como contador público, explorando números y balances con precisión. Sin embargo, el mundo del desarrollo web despertó mi curiosidad y creatividad de una manera que no esperaba. Me sumergí en el mundo del código, descubriendo un universo de posibilidades para crear y solucionar necesidades en nuestra sociedad. Hoy, fusiono mi experiencia en contabilidad con mi pasión por la programación, buscando constantemente nuevas formas de innovar y mejorar nuestro entorno digital. ¡La oportunidad de crear y transformar nunca deja de emocionarme!</samp></h4><br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZlcGw1Ymh2MHppd2l1dmp6YXVqcHh4azVxazlnazI2dWczcXo5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohT97gdpR40vK/giphy.gif" width="250" height="150">
 </div>
 
@@ -26,7 +26,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPRuedaZ&layout=compact)
 
 ## Objectives | Objetivos
+<div>
 <h4 align="start"><samp>I'm relatively new to the tech industry, but I'm motivated and eager to bring solutions and create new tools to make life more awesome. 😎🤩</samp></h4>
 
 <h4 align="start"><samp>Llevo poco tiempo en este gremio tech pero estoy motivado y quiero traer soluciones y crear nuevas herramientas para hacer la vida mas chida 😎🤩</samp></h4>
+<div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJsbWdpZTh6d3EwNDR6NngyanN3bmR0MHN4bWN3NjhhdXVqN21lYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="250" height="150" frameBorder="0" class="giphy-embed" allowFullScreen><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1ubmd6bWNyN2dwOXY0NWRuNDlvMG5sa25qdDdqa243dmY0MmV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yeE6B8nEKcTMWWvBzD/giphy.gif" width="180" height="150" frameBorder="0" class="giphy-embed" allowFullScreen>
+</div>
+</div>
