@@ -1,4 +1,4 @@
-# Welcome to my GitHub, thank you for being here💖! |Bienvenid@ a mi GitHub gracias por estar aqui💖!
+# Welcome to my GitHub, thank you for being here💖! | Bienvenid@ a mi GitHub gracias por estar aqui💖!
 
 ![Banner de JPRZO](banner.png)
 
@@ -8,7 +8,7 @@
 
 <h4 align="center"><samp>I began my professional journey as a public accountant, delving into numbers and balances with precision. However, the world of web development sparked my curiosity and creativity in unexpected ways. I immersed myself in the realm of code, uncovering a universe of possibilities to create and address societal needs. Today, I merge my accounting experience with my passion for programming, continuously seeking new ways to innovate and enhance our digital landscape. The opportunity to create and transform never fails to excite me!</samp></h4>
 
-<h4 align="center"><samp>Comencé mi trayectoria profesional como contador público, explorando números y balances con precisión. Sin embargo, el mundo del desarrollo web despertó mi curiosidad y creatividad de una manera que no esperaba. Me sumergí en el mundo del código, descubriendo un universo de posibilidades para crear y solucionar necesidades en nuestra sociedad. Hoy, fusiono mi experiencia en contabilidad con mi pasión por la programación, buscando constantemente nuevas formas de innovar y mejorar nuestro entorno digital. ¡La oportunidad de crear y transformar nunca deja de emocionarme!<iframe src="https://giphy.com/embed/ohT97gdpR40vK" width="200" align="center" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></samp></h4>
+<h4 align="center"><samp>Comencé mi trayectoria profesional como contador público, explorando números y balances con precisión. Sin embargo, el mundo del desarrollo web despertó mi curiosidad y creatividad de una manera que no esperaba. Me sumergí en el mundo del código, descubriendo un universo de posibilidades para crear y solucionar necesidades en nuestra sociedad. Hoy, fusiono mi experiencia en contabilidad con mi pasión por la programación, buscando constantemente nuevas formas de innovar y mejorar nuestro entorno digital. ¡La oportunidad de crear y transformar nunca deja de emocionarme!<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/ohT97gdpR40vK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></samp></h4>
 
 ## Technologies I've worked with | Tecnologias que he utilizado👨‍💻
 
