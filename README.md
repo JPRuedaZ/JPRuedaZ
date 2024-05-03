@@ -21,8 +21,6 @@
 </p><br>
 
 ## Stats | Estadisticas 
-![Stats](https://github-readme-stats.vercel.app/api?username=JPRuedaZ&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=bright)<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPRuedaZ&layout=compact)
 
 ## Objectives | Objetivos
