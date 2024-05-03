@@ -28,4 +28,4 @@
 <h4 align="start"><samp>I'm relatively new to the tech industry, but I'm motivated and eager to bring solutions and create new tools to make life more awesome. 😎🤩</samp></h4>
 
 <h4 align="start"><samp>Llevo poco tiempo en este gremio tech pero estoy motivado y quiero traer soluciones y crear nuevas herramientas para hacer la vida mas chida 😎🤩</samp></h4>
-<iframe src="https://giphy.com/embed/SHjOSDkKZ18qOHA5B5" width="250" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><iframe src="https://giphy.com/embed/yeE6B8nEKcTMWWvBzD" width="250" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJsbWdpZTh6d3EwNDR6NngyanN3bmR0MHN4bWN3NjhhdXVqN21lYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="250" height="150" frameBorder="0" class="giphy-embed" allowFullScreen><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1ubmd6bWNyN2dwOXY0NWRuNDlvMG5sa25qdDdqa243dmY0MmV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yeE6B8nEKcTMWWvBzD/giphy.gif" width="180" height="150" frameBorder="0" class="giphy-embed" allowFullScreen>
