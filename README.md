@@ -5,12 +5,13 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/juan-pablo-rueda-zuluaga-40b34b217/)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/paporz/)
 
 ## About me | Un poco sobre mi 😴
-<div>
-<h4 align="center"><samp>I began my professional journey as a public accountant, delving into numbers and balances with precision. However, the world of web development sparked my curiosity and creativity in unexpected ways. I immersed myself in the realm of code, uncovering a universe of possibilities to create and address societal needs. Today, I merge my accounting experience with my passion for programming, continuously seeking new ways to innovate and enhance our digital landscape. The opportunity to create and transform never fails to excite me!</samp></h4>
+<div align="center" >
+<h4><samp>I began my professional journey as a public accountant, delving into numbers and balances with precision. However, the world of web development sparked my curiosity and creativity in unexpected ways. I immersed myself in the realm of code, uncovering a universe of possibilities to create and address societal needs. Today, I merge my accounting experience with my passion for programming, continuously seeking new ways to innovate and enhance our digital landscape. The opportunity to create and transform never fails to excite me!</samp></h4>
 
-<h4 align="center"><samp>Comencé mi trayectoria profesional como contador público, explorando números y balances con precisión. Sin embargo, el mundo del desarrollo web despertó mi curiosidad y creatividad de una manera que no esperaba. Me sumergí en el mundo del código, descubriendo un universo de posibilidades para crear y solucionar necesidades en nuestra sociedad. Hoy, fusiono mi experiencia en contabilidad con mi pasión por la programación, buscando constantemente nuevas formas de innovar y mejorar nuestro entorno digital. ¡La oportunidad de crear y transformar nunca deja de emocionarme!</samp></h4><br>
+<h4><samp>Comencé mi trayectoria profesional como contador público, explorando números y balances con precisión. Sin embargo, el mundo del desarrollo web despertó mi curiosidad y creatividad de una manera que no esperaba. Me sumergí en el mundo del código, descubriendo un universo de posibilidades para crear y solucionar necesidades en nuestra sociedad. Hoy, fusiono mi experiencia en contabilidad con mi pasión por la programación, buscando constantemente nuevas formas de innovar y mejorar nuestro entorno digital. ¡La oportunidad de crear y transformar nunca deja de emocionarme!</samp></h4><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZlcGw1Ymh2MHppd2l1dmp6YXVqcHh4azVxazlnazI2dWczcXo5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohT97gdpR40vK/giphy.gif" width="250" height="150">
 </div>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZlcGw1Ymh2MHppd2l1dmp6YXVqcHh4azVxazlnazI2dWczcXo5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohT97gdpR40vK/giphy.gif" style="display:block; margin:auto;" width="250" height="150">
+
 
 
 ## Technologies I've worked with | Tecnologias que he utilizado👨‍💻
